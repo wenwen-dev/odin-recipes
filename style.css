@@ -1,0 +1,40 @@
+h1 {
+  font-size: xx-large;
+  text-align: center;
+  background-color: rgb(255, 182, 193);
+  color: white;
+}
+
+h2 {
+  text-align: center;
+}
+
+h1,
+h3 {
+  background-color: lightpink;
+}
+
+img {
+  width: 1200px;
+  height: auto;
+}
+
+#hero-list {
+  font-size: large;
+  background-color: lightpink;
+  font-weight: 600;
+  color: purple;
+}
+
+#hero-image {
+  border-radius: 20px;
+}
+.description p {
+  font-style: italic;
+  font-weight: 200;
+}
+
+li.key-step {
+  font-weight: bold;
+  background-color: aquamarine;
+}
